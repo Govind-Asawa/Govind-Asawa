@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Govind Asawa</h1>
 <h3 align="center">Software developer with perpetual hunger for learning</h3>
+<img align="right" alt="coding" width="375" height="275" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif" />
+<br>
 
 - 🔭 I’m currently working on **BigData/ML and Cloud projects**
 
@@ -8,6 +10,8 @@
 - 💬 Ask me about **Java, REST APIs, Databases**
 
 - 📬 How to reach me **govindasawa23@gmail.com**
+<br>
+<br>
 
 ## My Skills
 
@@ -39,9 +43,9 @@
 ## My Presence
 
 <div align="center">
-  <a href="mailto:govindasawa23@gmail.com" target="blank"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.github.com/Govind-Asawa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:govindasawa23@gmail.com" target="blank"> <img src="https://github.com/jzsfkzm/color-icons-for-gmail/blob/master/extension/images/icons/icon48.png" width="32" height="32"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;  
   <a href="https://www.github.com/Govind-Asawa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </div>
