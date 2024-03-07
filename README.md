@@ -33,13 +33,6 @@
   <a href="https://linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="linux" /></a>
 </p>
 
-## My Github Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Govind-Asawa&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="govind-asawa" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Govind-Asawa&theme=dark&hide_border=true" alt="govind-asawa" />
-</div>
-
 ## My Presence
 
 <div align="center">
