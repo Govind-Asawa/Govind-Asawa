@@ -1,17 +1,19 @@
-<h1 align="center">Hi 👋, I'm Govind Asawa</h1>
-<h3 align="center">Software developer with perpetual hunger for learning</h3>
-<img align="right" alt="coding" width="375" height="275" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif" />
-<br>
+## Hi 👋, I'm [Govind Asawa !](https://govind-asawa.vercel.app/")
 
-- 🔭 I’m currently working on **BigData/ML and Cloud projects**
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/govind-asawa/)](https://www.linkedin.com/in/govind-asawa/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:govindasawa23@gmail.com)](mailto:govindasawa23@gmail.com)
+[![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://govind-asawa.vercel.app/)](https://govind-asawa.vercel.app/)
+[![LeetCode Badge](https://img.shields.io/badge/-Leetcode-gold?style=flat&logo=leetcode&logoColor=white&link=https://leetcode.com/u/G_Asawa/)](https://leetcode.com/u/G_Asawa/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/__govind_asawa__)](https://www.instagram.com/__govind_asawa__)
+[![Quora Badge](https://img.shields.io/badge/-Quora-red?style=flat&logo=quora&logoColor=white&link=https://www.quora.com/profile/Govind-Asawa-4)](https://www.quora.com/profile/Govind-Asawa-4)
+<h2></h2>
 
-- 🧑‍💻 I’m currently learning **React, Bigdata & AWS**
+### :raising_hand: About Me
+I love putting my skills to work by indulging in meaningful projects. I get my dopamine rush by constantly learning new technologies and building something with them. Always open to collaborations.
 
-- 💬 Ask me about **REST APIs, Databases, ML**
-
+- 🔭 I’m iteratively learning, working and improving
+- :globe_with_meridians: Visit my <a href="https://govind-asawa.vercel.app/">Portfolio</a> for complete details
 - 📬 How to reach me **govindasawa23@gmail.com**
-<br>
-<br>
 
 ## My Skills
 
