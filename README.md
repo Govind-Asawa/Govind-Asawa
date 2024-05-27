@@ -34,13 +34,3 @@ I love putting my skills to work by indulging in meaningful projects. I get my d
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="git" /></a>
   <a href="https://linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="linux" /></a>
 </p>
-
-## My Presence
-
-<div align="center">
-  <a href="https://www.github.com/Govind-Asawa" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="32" height="32" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:govindasawa23@gmail.com" target="blank"> <img src="https://github.com/jzsfkzm/color-icons-for-gmail/blob/master/extension/images/icons/icon48.png" width="32" height="32"/></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;  
-  <a href="https://www.github.com/Govind-Asawa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-</div>
